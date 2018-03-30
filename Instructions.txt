@@ -1,0 +1,8 @@
+Instructions for using Neural Network Program
+
+1. Download program
+2. Open python file with IDE
+3. Run program and input neural network parameters (Default: 784, 30, 10) then trainingsetX, training setY, testingsetX filenames. Training and testing sets are not included
+therefore the user will need to download them into the directory that the python file is contained in. 
+4. Cross entropy function can be enabled by modifying the boolean value in the python file at line 6, "quadratic" to False to enable the cross entropy function. It
+is set to true by default, enabling the quadratic function by default.
